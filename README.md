@@ -8,6 +8,9 @@ I love being part of a community, sharing my knowledge, and learning from others
 
 [Check my portfolio! | jacobflores.dev](https://www.jacobflores.dev/)
 
+![Me and my friends at Solana Hackathon Guadalajara 2023!](https://github.com/user-attachments/assets/e095f687-b194-402a-aad7-97318753e2f0)
+
+
 <!--
 **yeicobF/yeicobF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
